@@ -1,0 +1,25 @@
+
+Zsquid:S1989*"+Add a "try/catch" block for "sendRedirect".(¹ñ!H¶RMINORZVULNERABILITY
+`squid:S1989F"+Add a "try/catch" block for "sendRedirect".(‡èåğùÿÿÿÿH·RMINORZVULNERABILITY
+[squid:S11254")Remove the literal "false" boolean value.(„è£ƒÿÿÿÿÿH¸RMINORZ
+CODE_SMELL
+Vsquid:S11251")Remove the literal "false" boolean value.(ÈÓã«H¹RMINORZ
+CODE_SMELL
+[squid:S1125.")Remove the literal "false" boolean value.(åêúÿÿÿÿHºRMINORZ
+CODE_SMELL
+Vsquid:S11257")Remove the literal "false" boolean value.(„“›öH»RMINORZ
+CODE_SMELL
+‚squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(‹¨¯¿H¼RCRITICALZ
+CODE_SMELL
+[squid:S1125@")Remove the literal "false" boolean value.(¹¯ıùÿÿÿÿH½RMINORZ
+CODE_SMELL
+[squid:S1125=")Remove the literal "false" boolean value.(ãùÿÿÿÿH¾RMINORZ
+CODE_SMELL
+csquid:S1135"2Complete the task associated to this TODO comment.(ƒŠ® úÿÿÿÿH¿RINFOZ
+CODE_SMELL
+[squid:S1125:")Remove the literal "false" boolean value.(ù¡ÉıÿÿÿÿHÀRMINORZ
+CODE_SMELL
+gsquid:S1161":Add the "@Override" annotation above this method signature(‹¨¯¿HÁRMAJORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLineE"<This block of commented-out lines of code should be removed.(Æ¤£4HÂRMAJORZ
+CODE_SMELL
